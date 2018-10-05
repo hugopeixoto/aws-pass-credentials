@@ -9,7 +9,7 @@ To use this plugin, you must have `awscli` and `pass` configured.
 The easiest way is to use pip:
 
 ```
-pip install awscli-pass-credentials
+pip install git+https://github.com/hugopeixoto/aws-pass-credentials
 ```
 
 Add this plugin to your awscli configuration file:
